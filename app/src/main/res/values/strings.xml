@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Speedometer</string>
+    <string name="currentSpeed">Current Speed</string>
+    <string name="kmh">KMH</string>
+    <string name="seconds">Seconds</string>
+    <string name="second">Second</string>
+    <string name="fromTenToThirty">From 10 To 30</string>
+    <string name="fromThirtyToTen">From 30 To 10</string>
+    <string name="NumberPlaceholder">0.0</string>
+    <string name="measureIt">Measure it!</string>
+    <string name="lastRecorded">Last Recorded Speed</string>
+    <string name="meterStopped">Meter Stopped</string>
+</resources>

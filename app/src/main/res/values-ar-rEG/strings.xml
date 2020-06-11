@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Speedometer</string>
+    <string name="currentSpeed">السرعة الحاليّة</string>
+    <string name="kmh">كيلومتر / ساعة</string>
+    <string name="seconds">ثوان</string>
+    <string name="second">ثانية</string>
+    <string name="fromTenToThirty">من 10 إلى 30</string>
+    <string name="fromThirtyToTen">من 30 إلى 10</string>
+    <string name="NumberPlaceholder">0.0</string>
+    <string name="measureIt">قِسها</string>
+    <string name="lastRecorded">آخر سرعة تم تسجيلها</string>
+    <string name="meterStopped">تم الإيقاف</string>
+</resources>

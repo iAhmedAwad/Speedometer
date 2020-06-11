@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Speedometer</string>
+    <string name="currentSpeed">Velocità Attuale</string>
+    <string name="kmh">KMH</string>
+    <string name="seconds">Secondi</string>
+    <string name="second">Seconda</string>
+    <string name="fromTenToThirty">Dalle 10 Alle 30</string>
+    <string name="fromThirtyToTen">Dalle 30 Alle 10</string>
+    <string name="NumberPlaceholder">0.0</string>
+    <string name="measureIt">Misuralo!</string>
+    <string name="lastRecorded">Ultimo registrato</string>
+    <string name="meterStopped">Metro fermato</string>
+</resources>
